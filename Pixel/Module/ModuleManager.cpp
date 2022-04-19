@@ -32,6 +32,7 @@ void ModuleManager::initModules() {
 		moduleList.push_back(std::shared_ptr<IModule>(new Killaura()));
 		moduleList.push_back(std::shared_ptr<IModule>(new WaterMark()));
 		moduleList.push_back(std::shared_ptr<IModule>(new Welcome()));
+		moduleList.push_back(std::shared_ptr<IModule>(new HiveFly()));
 		moduleList.push_back(std::shared_ptr<IModule>(new ESP()));
 		moduleList.push_back(std::shared_ptr<IModule>(new AnchorAura()));
 		moduleList.push_back(std::shared_ptr<IModule>(new Jetpack()));
