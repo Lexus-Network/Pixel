@@ -25,6 +25,7 @@
 #include "Modules/Bhop.h"
 #include "Modules/Blink.h"
 #include "Modules/BowAimbot.h"
+#include "Modules/HiveFly.h"
 #include "Modules/AntiVoid.h"
 #include "Modules/ArrayList.h"
 #include "Modules/Background.h"
