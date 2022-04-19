@@ -292,12 +292,13 @@
     <ClCompile Include="Pixel\Module\Modules\AutoTotem.cpp" />
     <ClCompile Include="Pixel\Module\Modules\Bhop.cpp" />
     <ClCompile Include="Pixel\Module\Modules\Blink.cpp" />
-	<ClCompile Include="Pixel\Module\Modules\CrystalAuraOW.cpp" />
-	<ClCompile Include="Pixel\Module\Modules\CrystalAuraWTA.cpp" />
+    <ClCompile Include="Pixel\Module\Modules\CrystalAuraOW.cpp" />
+    <ClCompile Include="Pixel\Module\Modules\CrystalAuraWTA.cpp" />
     <ClCompile Include="Pixel\Module\Modules\BowAimbot.cpp" />
     <ClCompile Include="Pixel\Module\Modules\ChestAura.cpp" />
     <ClCompile Include="Pixel\Module\Modules\StorageESP.cpp" />
     <ClCompile Include="Pixel\Module\Modules\ChestStealer.cpp" />
+	<ClCompile Include="Pixel\Module\Modules\HiveFly.cpp" />
 	<ClCompile Include="Pixel\Module\Modules\Themer.cpp" />
 	<ClCompile Include="Pixel\Module\Modules\Arraylist.cpp" />
 	<ClCompile Include="Pixel\Module\Modules\TargetStrafe.cpp" />
@@ -493,6 +494,7 @@
     <ClInclude Include="Pixel\Module\Modules\BowAimbot.h" />
     <ClInclude Include="Pixel\Module\Modules\ChestAura.h" />
     <ClInclude Include="Pixel\Module\Modules\ChestESP.h" />
+	   <ClInclude Include="Pixel\Module\Modules\HiveFly.h" />
     <ClInclude Include="Pixel\Module\Modules\ChestStealer.h" />
     <ClInclude Include="Pixel\Module\Modules\ClickGuiMod.h" />
     <ClInclude Include="Pixel\Module\Modules\Compass.h" />
